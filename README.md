@@ -123,14 +123,15 @@ Gere seu favicon em [favicon.io](https://favicon.io) ou [realfavicongenerator.ne
 
 ### Confira
 
-A forma mais simples de fazer deploy de projetos Next.js:
+Confira o site 
 
-1. Acesse [vercel.com](https://monsieur-cafe.vercel.app/)
+1. Acesse [Monsieur](https://monsieur-cafe.vercel.app/)
 
 
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins de portfólio e demonstração. Sinta-se livre para usar como base para seus projetos.
+
 
 
 

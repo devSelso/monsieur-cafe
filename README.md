@@ -86,7 +86,7 @@ monsieur-nextjs/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/monsieur-cafe.git
+git clone https://github.com/devselso/monsieur-cafe.git
 
 # 2. Entre na pasta
 cd monsieur-cafe
@@ -169,3 +169,4 @@ Este projeto foi desenvolvido para fins de portfólio e demonstração. Sinta-se
 ---
 
 <p align="center">Feito com ☕ e muito carinho — à maneira parisiense.</p>
+

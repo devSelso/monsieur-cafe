@@ -1,7 +1,7 @@
 # ☕ Monsieur Café — Landing Page
 
-> Landing page moderna, responsiva e sofisticada para a cafeteria **Monsieur** — inspirada nos bistrôs parisienses.
-> 
+Landing page moderna, responsiva e sofisticada para a cafeteria **Monsieur** — inspirada nos bistrôs parisienses.
+
 ---
 
 ## 🚀 Tech Stack
@@ -151,4 +151,5 @@ A forma mais simples de fazer deploy de projetos Next.js:
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins de portfólio e demonstração. Sinta-se livre para usar como base para seus projetos.
+
 

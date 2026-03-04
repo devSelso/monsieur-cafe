@@ -121,16 +121,14 @@ Gere seu favicon em [favicon.io](https://favicon.io) ou [realfavicongenerator.ne
 
 ## 📦 Deploy
 
-### Confira
-
-Confira o site 
+### O Site já está no ar!
 
 1. Acesse [Monsieur](https://monsieur-cafe.vercel.app/)
-
 
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins de portfólio e demonstração. Sinta-se livre para usar como base para seus projetos.
+
 
 
 

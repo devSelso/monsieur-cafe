@@ -1,9 +1,7 @@
 # ☕ Monsieur Café — Landing Page
 
 > Landing page moderna, responsiva e sofisticada para a cafeteria **Monsieur** — inspirada nos bistrôs parisienses.
-
-![Preview](https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1200&q=80)
-
+> 
 ---
 
 ## 🚀 Tech Stack
@@ -142,31 +140,15 @@ Gere seu favicon em [favicon.io](https://favicon.io) ou [realfavicongenerator.ne
 
 ## 📦 Deploy
 
-### Vercel (recomendado)
+### Confira
 
 A forma mais simples de fazer deploy de projetos Next.js:
 
-1. Acesse [vercel.com](https://vercel.com) e conecte sua conta GitHub
-2. Importe o repositório `monsieur-cafe`
-3. Clique em **Deploy** — a Vercel detecta o Next.js automaticamente
-
-### Outras opções
-
-```bash
-# Build de produção
-npm run build
-
-# Iniciar servidor de produção
-npm run start
-```
+1. Acesse [vercel.com](https://monsieur-cafe.vercel.app/)
 
 ---
 
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins de portfólio e demonstração. Sinta-se livre para usar como base para seus projetos.
-
----
-
-<p align="center">Feito com ☕ e muito carinho — à maneira parisiense.</p>
 

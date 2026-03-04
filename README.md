@@ -98,15 +98,6 @@ npm run dev
 
 Acesse **http://localhost:3000** no navegador.
 
-### Scripts disponíveis
-
-```bash
-npm run dev      # Servidor de desenvolvimento
-npm run build    # Build de produção
-npm run start    # Inicia o servidor de produção
-npm run lint     # Verifica erros de lint
-```
-
 ---
 
 ## 🔍 SEO
@@ -151,5 +142,6 @@ A forma mais simples de fazer deploy de projetos Next.js:
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins de portfólio e demonstração. Sinta-se livre para usar como base para seus projetos.
+
 
 

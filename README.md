@@ -2,8 +2,6 @@
 
 Landing page moderna, responsiva e sofisticada para a cafeteria **Monsieur** — inspirada nos bistrôs parisienses.
 
----
-
 ## 🚀 Tech Stack
 
 | Tecnologia | Uso |
@@ -14,7 +12,6 @@ Landing page moderna, responsiva e sofisticada para a cafeteria **Monsieur** —
 | [Framer Motion](https://www.framer.com/motion/) | Animações de scroll e hover |
 | [Lucide React](https://lucide.dev/) | Ícones |
 
----
 
 ## ✨ Funcionalidades
 
@@ -28,7 +25,6 @@ Landing page moderna, responsiva e sofisticada para a cafeteria **Monsieur** —
 - **Totalmente responsivo** para mobile, tablet e desktop
 - **SEO otimizado** com metadata, Open Graph e tags semânticas HTML5
 
----
 
 ## 📁 Estrutura do Projeto
 
@@ -54,8 +50,6 @@ monsieur-nextjs/
 └── package.json
 ```
 
----
-
 ## 🎨 Paleta de Cores
 
 | Nome | Hex | Uso |
@@ -71,7 +65,6 @@ monsieur-nextjs/
 - **Cormorant Garamond** — corpo de texto
 - **DM Mono** — labels, tags e elementos monoespaçados
 
----
 
 ## ⚙️ Como Rodar Localmente
 
@@ -98,7 +91,6 @@ npm run dev
 
 Acesse **http://localhost:3000** no navegador.
 
----
 
 ## 🔍 SEO
 
@@ -112,7 +104,6 @@ A página utiliza a **Metadata API do Next.js** com:
 - Todas as imagens com atributo `alt` descritivo
 - Componente `<Image />` do Next.js para otimização automática (lazy loading, WebP, tamanhos responsivos)
 
----
 
 ## 🖼️ Favicon
 
@@ -127,7 +118,6 @@ app/
 
 Gere seu favicon em [favicon.io](https://favicon.io) ou [realfavicongenerator.net](https://realfavicongenerator.net).
 
----
 
 ## 📦 Deploy
 
@@ -137,11 +127,11 @@ A forma mais simples de fazer deploy de projetos Next.js:
 
 1. Acesse [vercel.com](https://monsieur-cafe.vercel.app/)
 
----
 
 ## 📄 Licença
 
 Este projeto foi desenvolvido para fins de portfólio e demonstração. Sinta-se livre para usar como base para seus projetos.
+
 
 
 
